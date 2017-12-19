@@ -3,6 +3,7 @@ React Router
 This small dummy project aims to learning react router concept by creating several components and add their link in header component. Then we use react-router and react-router-dom package to implement routing. With routing we can develop single page apps (SPA).
 
 This project has setup with create-react-app package which installs needed packages for react and setup getting started broilerplate. 
+Reac More about create-react-app : https://github.com/facebookincubator/create-react-app
 <hr/>
 
 Install Dependancies : 
