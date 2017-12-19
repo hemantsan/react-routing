@@ -21,7 +21,7 @@ class App extends Component {
                         <Route exact path="/home" component={HomeComponent}/>
                         <Route exact path="/explore/featured" component={ExploreComponent}/>
                         <Route path="/games/2018/latest" component={LatestComponent}/>
-                        <Route path="/profile" component={ProfileComponent}/>
+                        <Route path="/profile/:name" component={ProfileComponent}/>
                         <Route path="/wishlist/offers" component={WishlistComponent}/>
                     </Switch>
                 </RouterComponent>

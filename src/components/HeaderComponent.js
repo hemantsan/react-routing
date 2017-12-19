@@ -16,7 +16,7 @@ class HeaderComponent extends Component {
                             <NavLink className="nav-link" to={"/home"}>Home <span className="sr-only">(current)</span></NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" to={"/profile"}>Profile</NavLink>
+                            <NavLink className="nav-link" to="/profile/hemant">Profile</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link" to={"/explore/featured"}>Explore</NavLink>
